@@ -1,6 +1,7 @@
 body {
     background-color: #FFCCFF;
     font-family: Roboto, sans-serif;
+    text-align: center;
 }
 
 h1 {
@@ -10,5 +11,6 @@ h1 {
 
 .container {
     max-width: 960px;
+    padding: 20px;  
     margin: 0 auto;
 }
