@@ -1,5 +1,5 @@
 ## Tervetuloa GitHub Pages -sivulleni!
-Tämä on ensimmäinen Jekyll-sivun ja täältä löytyy tehtäväpalautukseni.
+Tämä on ensimmäinen Jekyll-sivuni ja täältä löytyy tehtäväpalautukseni.
 
 ## Tehtäväpalautukset:
 - [Viikko 1](viikko1.html)
