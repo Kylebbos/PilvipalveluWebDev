@@ -1,4 +1,4 @@
-# Tervetuloa GitHub Pages -sivulleni!
+## Tervetuloa GitHub Pages -sivulleni!
 Tämä on ensimmäinen Jekyll-sivun ja täältä löytyy tehtäväpalautukseni.
 
 ## Tehtäväpalautukset:
