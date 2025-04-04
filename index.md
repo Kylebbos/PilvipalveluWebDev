@@ -1,5 +1,3 @@
-Jekyll:iä käyttävä sivusto
-
 ## Tervetuloa GitHub Pages -sivulleni!
 Tämä on ensimmäinen Jekyll-sivuni ja täältä löytyy tehtäväpalautukseni.
 
