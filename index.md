@@ -1,7 +1,7 @@
 # Tervetuloa GitHub Pages -sivulleni!
-Tämä on ensimmäinen Jekyll-sivuni, joka käyttää Cayman-teemaa.
+Tämä on ensimmäinen Jekyll-sivun ja täältä löytyy tehtäväpalautukseni.
 
-## Tehtävälistaus
+## Tehtäväpalautukset:
 - [Viikko 1](viikko1.html)
 - [Viikko 2](viikko2.md)
 - [Viikko 3]()
