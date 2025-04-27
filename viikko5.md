@@ -8,6 +8,6 @@ Jekyll-sivuston automatisointi onnistuu helposti GitHub Actionsin avulla. GitHub
 
 CI/CD-putken rakentamiseen voidaan käyttää työkaluja kuten Node.js, npm, Docker sekä pilvipalveluita kuten AWS ja Azure. Näillä voidaan hallita sovelluksen rakentamista, testaamista ja julkaisemista tehokkaasti eri ympäristöihin. GitHub Actionsin YAML-pohjaiset workflow-konfiguraatiot mahdollistavat näiden työkalujen automatisoidun käytön osana modernia web-kehitysprosessia.
 
-
+[Cookie testisivulle](viikko5/index.html)
 
 [Etusivulle](index.md)
