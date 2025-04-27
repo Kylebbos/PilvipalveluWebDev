@@ -1,12 +1,9 @@
 ## Viikko 5 tehtävä
 
-### Jekyll sivuston automatisointi GitHub Actionsilla ja työkaluja CI/CD putken rakentamiseen
+### Miten Matamo-analytiikkaa voisi hyödyntää?
 
-GitHub Actionsia ja CI/CD-putkea voidaan hyödyntää monella eri tavalla web-kehityksen tehostamiseen. CI (Continuous Integration) mahdollistaa jokaisen commitin automaattisen testauksen, rakentamisen ja koodin laadun tarkastamisen. CD (Continuous Deployment) puolestaan julkaisee hyväksytyn koodin automaattisesti esimerkiksi verkkopalvelimelle tai pilvipalveluun, kuten GitHub Pagesiin.
-
-Jekyll-sivuston automatisointi onnistuu helposti GitHub Actionsin avulla. GitHub Actionsissa luodaan workflow-tiedosto, joka käynnistyy aina, kun main-haaraan tehdään muutos. Workflow rakentaa Jekyll-sivuston ja julkaisee sen automaattisesti GitHub Pagesiin ilman manuaalista työtä. Tämä nopeuttaa julkaisuja ja varmistaa, että sivusto pysyy aina ajan tasalla.
-
-CI/CD-putken rakentamiseen voidaan käyttää työkaluja kuten Node.js, npm, Docker sekä pilvipalveluita kuten AWS ja Azure. Näillä voidaan hallita sovelluksen rakentamista, testaamista ja julkaisemista tehokkaasti eri ympäristöihin. GitHub Actionsin YAML-pohjaiset workflow-konfiguraatiot mahdollistavat näiden työkalujen automatisoidun käytön osana modernia web-kehitysprosessia.
+Matomon avulla voimme kerätä paljon hyödyllistä tietoa sivustomme käyttäjistä. Sen avulla pystyy seuraamaan kävijämääriä, suosituimpia sivuja sekä käyttäjien käyttämää laitetta ja selainta. Näiden tietojen avulla voi kehittää sivuston rakennetta ja sisältöä paremmin käyttäjiä palvelevaksi. Analytiikasta näkee myös, kuinka pitkään käyttäjät viipyvät sivustolla ja miltä sivulta he poistuvat. Näin voidaan tunnistaa mahdollisia ongelmakohtia tai sisältöjä, jotka kaipaavat vielä parannusta.
+Harjoitustehtävässäni voisin seurata esimerkiksi sitä, kuinka moni käy sivullani ja kuinka moni palaa myöhemmin uudelleen sille. Lisäksi voisin analysoida, mitkä sisällöt siellä herättävät eniten kiinnostusta ja oliko jokin tietty osio, josta ihmiset klikkasivat pois. 
 
 [Cookie testisivulle](viikko5/index.html)
 
